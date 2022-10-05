@@ -1,0 +1,19 @@
+1.打開GIT CMD
+
+2.輸入cd (空格)後將要監督的位置拉進來K:\GIT LAB\GIT TEST
+
+3.在打上剛剛輸入位置的主要硬碟位置，例如K:
+
+4.得到 K:\GIT LAB\GIT TEST> 於後面輸入 git init
+
+..................................................
+
+生產記事本
+
+git add .
+
+git status
+
+git commit -m "first commit"
+
+git log
